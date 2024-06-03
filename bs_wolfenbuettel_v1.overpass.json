@@ -1,0 +1,1303 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-06-03T08:41:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 99185581,
+  "lat": 52.1746130,
+  "lon": 10.5148979,
+  "tags": {
+    "crossing:barrier": "half",
+    "crossing:chicane": "no",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "9.5",
+    "railway:position:exact": "9.571"
+  }
+},
+{
+  "type": "node",
+  "id": 313507666,
+  "lat": 52.1747407,
+  "lon": 10.5148464,
+  "tags": {
+    "crossing:barrier": "half",
+    "crossing:chicane": "no",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "crossing",
+    "railway:position": "9.5",
+    "railway:position:exact": "9.571"
+  }
+},
+{
+  "type": "node",
+  "id": 529377194,
+  "lat": 52.2076164,
+  "lon": 10.5041539,
+  "tags": {
+    "railway": "switch",
+    "railway:local_operated": "no",
+    "railway:maxspeed:diverging": "100",
+    "railway:maxspeed:straight": "120",
+    "railway:switch": "default",
+    "railway:switch:electric": "yes",
+    "railway:switch:heated": "yes",
+    "railway:switch:movable_frog": "no",
+    "railway:switch:resetting": "no",
+    "railway:turnout_side": "left",
+    "ref": "501"
+  }
+},
+{
+  "type": "node",
+  "id": 529377195,
+  "lat": 52.2071866,
+  "lon": 10.5040811,
+  "tags": {
+    "note": "Flachkreuzung mit Antrieb für die Zungen",
+    "railway": "railway_crossing",
+    "railway:local_operated": "no",
+    "railway:railway_crossing:electric": "yes",
+    "railway:railway_crossing:heated": "yes",
+    "railway:railway_crossing:movable_frog": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 529379389,
+  "lat": 52.2437878,
+  "lon": 10.5158103,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "2.0",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 740063497,
+  "lat": 52.2302184,
+  "lon": 10.5106948,
+  "tags": {
+    "crossing:barrier": "no",
+    "crossing:bell": "no",
+    "crossing:chicane": "yes",
+    "crossing:light": "no",
+    "crossing:saltire": "no",
+    "railway": "level_crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 1401393032,
+  "lat": 52.1735437,
+  "lon": 10.5153291,
+  "tags": {
+    "crossing:barrier": "half",
+    "crossing:chicane": "no",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "9.6",
+    "railway:position:exact": "9.687"
+  }
+},
+{
+  "type": "node",
+  "id": 1401393066,
+  "lat": 52.1988229,
+  "lon": 10.5051741,
+  "tags": {
+    "crossing:barrier": "full",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "6.7",
+    "railway:position:exact": "6.793"
+  }
+},
+{
+  "type": "node",
+  "id": 1746191154,
+  "lat": 52.2239865,
+  "lon": 10.5088500,
+  "tags": {
+    "railway": "switch",
+    "railway:local_operated": "yes",
+    "railway:switch": "default",
+    "railway:switch:electric": "no",
+    "railway:switch:resetting": "no",
+    "railway:turnout_side": "left",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 1769081068,
+  "lat": 52.2444377,
+  "lon": 10.5174333,
+  "tags": {
+    "note": "Mit je 5 Vorsignalbaken",
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:distant": "DE-ESO:ks",
+    "railway:signal:distant:form": "light",
+    "railway:signal:distant:height": "normal",
+    "railway:signal:distant:repeated": "no",
+    "railway:signal:distant:shortened": "no",
+    "railway:signal:distant:states": "DE-ESO:ks1;DE-ESO:ks2",
+    "railway:signal:position": "right",
+    "railway:signal:speed_limit_distant": "DE-ESO:zs3v",
+    "railway:signal:speed_limit_distant:form": "light",
+    "railway:signal:speed_limit_distant:height": "normal",
+    "railway:signal:speed_limit_distant:speed": "50;?"
+  }
+},
+{
+  "type": "node",
+  "id": 1828271874,
+  "lat": 52.2403077,
+  "lon": 10.5126793,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:distant": "DE-ESO:ks",
+    "railway:signal:distant:form": "light",
+    "railway:signal:distant:height": "normal",
+    "railway:signal:distant:repeated": "yes",
+    "railway:signal:distant:states": "DE-ESO:ks1;DE-ESO:ks2",
+    "railway:signal:position": "right"
+  }
+},
+{
+  "type": "node",
+  "id": 2329485359,
+  "lat": 52.1736095,
+  "lon": 10.5153024,
+  "tags": {
+    "crossing:barrier": "half",
+    "crossing:chicane": "no",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "crossing",
+    "railway:position": "9.6",
+    "railway:position:exact": "9.687"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152257,
+  "lat": 52.2093202,
+  "lon": 10.5046333,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:main": "DE-ESO:hp",
+    "railway:signal:main:form": "light",
+    "railway:signal:main:function": "block",
+    "railway:signal:main:height": "normal",
+    "railway:signal:main:states": "DE-ESO:hp0;DE-ESO:hp1",
+    "railway:signal:main:substitute_signal": "DE-ESO:db:zs1",
+    "railway:signal:position": "right",
+    "railway:signal:route": "DE-ESO:zs2",
+    "railway:signal:route:form": "light",
+    "railway:signal:route:states": "S;W",
+    "railway:signal:speed_limit": "DE-ESO:zs3",
+    "railway:signal:speed_limit:form": "light",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "100;off",
+    "ref": "57"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152258,
+  "lat": 52.2094061,
+  "lon": 10.5046581,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "5.6",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152259,
+  "lat": 52.2111811,
+  "lon": 10.5051798,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "5.4",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152260,
+  "lat": 52.2129549,
+  "lon": 10.5056978,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "5.2",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152261,
+  "lat": 52.2149598,
+  "lon": 10.5062811,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "5.0",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152262,
+  "lat": 52.2166804,
+  "lon": 10.5067210,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "4.8",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152263,
+  "lat": 52.2182088,
+  "lon": 10.5071690,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:distant": "DE-ESO:vr",
+    "railway:signal:distant:form": "light",
+    "railway:signal:distant:height": "normal",
+    "railway:signal:distant:repeated": "no",
+    "railway:signal:distant:shape": "classic",
+    "railway:signal:distant:shortened": "no",
+    "railway:signal:distant:states": "DE-ESO:vr0;DE-ESO:vr1",
+    "railway:signal:position": "right",
+    "railway:signal:speed_limit_distant": "DE-ESO:zs3v",
+    "railway:signal:speed_limit_distant:form": "light",
+    "railway:signal:speed_limit_distant:height": "normal",
+    "railway:signal:speed_limit_distant:speed": "100;off"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152264,
+  "lat": 52.2182958,
+  "lon": 10.5071944,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "4.6",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152265,
+  "lat": 52.2200647,
+  "lon": 10.5077201,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "4.4",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152266,
+  "lat": 52.2217703,
+  "lon": 10.5082096,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "4.2",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152267,
+  "lat": 52.2252438,
+  "lon": 10.5092248,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "3.8",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152268,
+  "lat": 52.2355537,
+  "lon": 10.5122403,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "3.0",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152269,
+  "lat": 52.2376004,
+  "lon": 10.5126856,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "2.8",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152270,
+  "lat": 52.2380451,
+  "lon": 10.5126943,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:speed": "120"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152271,
+  "lat": 52.2380624,
+  "lon": 10.5126937,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:main": "DE-ESO:ks",
+    "railway:signal:main:form": "light",
+    "railway:signal:main:function": "block",
+    "railway:signal:main:height": "normal",
+    "railway:signal:main:states": "DE-ESO:hp0;DE-ESO:ks1",
+    "railway:signal:main:substitute_signal": "DE-ESO:db:zs7",
+    "railway:signal:position": "right",
+    "ref": "30 53"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152272,
+  "lat": 52.2423376,
+  "lon": 10.5138067,
+  "tags": {
+    "description": "einfache Tafel",
+    "operator": "DB Netz",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "2.2",
+    "source": "estimate; extrapolate; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152274,
+  "lat": 52.2448126,
+  "lon": 10.5189854,
+  "tags": {
+    "description": "einfache Tafel",
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "1.8",
+    "source": "estimation; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4211152275,
+  "lat": 52.2449294,
+  "lon": 10.5197251,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:distant": "DE-ESO:ks",
+    "railway:signal:distant:form": "light",
+    "railway:signal:distant:height": "normal",
+    "railway:signal:distant:repeated": "no",
+    "railway:signal:distant:shortened": "no",
+    "railway:signal:distant:states": "DE-ESO:ks1;DE-ESO:ks2",
+    "railway:signal:position": "right"
+  }
+},
+{
+  "type": "node",
+  "id": 5564781542,
+  "lat": 52.2449596,
+  "lon": 10.5199800,
+  "tags": {
+    "abandoned:railway": "switch",
+    "railway": "abandoned"
+  }
+},
+{
+  "type": "node",
+  "id": 8689092873,
+  "lat": 52.2066647,
+  "lon": 10.5039899,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:minor": "DE-ESO:sh",
+    "railway:signal:minor:form": "light",
+    "railway:signal:minor:height": "dwarf",
+    "railway:signal:minor:states": "DE-ESO:hp0;DE-ESO:sh1",
+    "railway:signal:position": "left"
+  }
+},
+{
+  "type": "node",
+  "id": 8689092877,
+  "lat": 52.2179508,
+  "lon": 10.5070934,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right",
+    "railway:signal:route_distant": "DE-ESO:zs2v",
+    "railway:signal:route_distant:form": "light",
+    "railway:signal:route_distant:states": "S;W"
+  }
+},
+{
+  "type": "node",
+  "id": 8689092881,
+  "lat": 52.2236754,
+  "lon": 10.5087601,
+  "tags": {
+    "crossing:barrier": "no",
+    "crossing:bell": "no",
+    "crossing:chicane": "yes",
+    "crossing:light": "no",
+    "crossing:saltire": "no",
+    "railway": "level_crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 8689856492,
+  "lat": 52.1965597,
+  "lon": 10.5060824,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:distant": "DE-ESO:db:ne2",
+    "railway:signal:distant:form": "sign",
+    "railway:signal:distant:height": "normal",
+    "railway:signal:distant:shortened": "no",
+    "railway:signal:position": "right"
+  }
+},
+{
+  "type": "node",
+  "id": 8726318249,
+  "lat": 52.2054625,
+  "lon": 10.5038389,
+  "tags": {
+    "railway": "signal",
+    "railway:position:exact": "6.084",
+    "railway:signal:direction": "backward",
+    "railway:signal:main": "DE-ESO:ne1",
+    "railway:signal:main:form": "sign",
+    "railway:signal:main:function": "entry",
+    "railway:signal:main:height": "normal",
+    "railway:signal:position": "right"
+  }
+},
+{
+  "type": "node",
+  "id": 8726318265,
+  "lat": 52.2313792,
+  "lon": 10.5110273,
+  "tags": {
+    "note": "UT",
+    "railway": "key_switch",
+    "railway:key_switch:crossing": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9145000776,
+  "lat": 52.2203934,
+  "lon": 10.5078480,
+  "tags": {
+    "crossing:barrier": "full",
+    "railway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 9145000778,
+  "lat": 52.2205646,
+  "lon": 10.5078982,
+  "tags": {
+    "crossing:barrier": "full",
+    "railway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 9145000783,
+  "lat": 52.2204934,
+  "lon": 10.5078827,
+  "tags": {
+    "crossing:activation": "automatic",
+    "crossing:barrier": "half",
+    "crossing:bell": "yes",
+    "crossing:chicane": "no",
+    "crossing:light": "yes",
+    "crossing:on_demand": "no",
+    "crossing:saltire": "yes",
+    "crossing:supervision": "no",
+    "railway": "level_crossing",
+    "railway:level_crossing:closure:average": "1",
+    "railway:position": "4.3"
+  }
+},
+{
+  "type": "node",
+  "id": 11389502652,
+  "lat": 52.1970839,
+  "lon": 10.5058714,
+  "tags": {
+    "railway": "milestone",
+    "railway:position": "7.0"
+  }
+},
+{
+  "type": "node",
+  "id": 11389502655,
+  "lat": 52.1918046,
+  "lon": 10.5079984,
+  "tags": {
+    "railway": "milestone",
+    "railway:position": "7.6"
+  }
+},
+{
+  "type": "node",
+  "id": 11389502656,
+  "lat": 52.1936031,
+  "lon": 10.5072729,
+  "tags": {
+    "railway": "milestone",
+    "railway:position": "7.4"
+  }
+},
+{
+  "type": "node",
+  "id": 11389502657,
+  "lat": 52.1952915,
+  "lon": 10.5065932,
+  "tags": {
+    "railway": "milestone",
+    "railway:position": "7.2"
+  }
+},
+{
+  "type": "node",
+  "id": 11389502666,
+  "lat": 52.1900505,
+  "lon": 10.5087035,
+  "tags": {
+    "railway": "milestone",
+    "railway:position": "7.8"
+  }
+},
+{
+  "type": "way",
+  "id": 42400880,
+  "bounds": {
+    "minlat": 52.2166638,
+    "minlon": 10.5067173,
+    "maxlat": 52.2328640,
+    "maxlon": 10.5114607
+  },
+  "nodes": [
+    4149583303,
+    8726318265,
+    740063497,
+    4211152267,
+    1746191154,
+    8689092881,
+    4211152266,
+    9145000778,
+    9145000783,
+    9145000776,
+    4211152265,
+    4211152264,
+    4211152263,
+    8689092877,
+    4211152262,
+    529377205
+  ],
+  "geometry": [
+    { "lat": 52.2328640, "lon": 10.5114607 },
+    { "lat": 52.2313792, "lon": 10.5110273 },
+    { "lat": 52.2302184, "lon": 10.5106948 },
+    { "lat": 52.2252438, "lon": 10.5092248 },
+    { "lat": 52.2239865, "lon": 10.5088500 },
+    { "lat": 52.2236754, "lon": 10.5087601 },
+    { "lat": 52.2217703, "lon": 10.5082096 },
+    { "lat": 52.2205646, "lon": 10.5078982 },
+    { "lat": 52.2204934, "lon": 10.5078827 },
+    { "lat": 52.2203934, "lon": 10.5078480 },
+    { "lat": 52.2200647, "lon": 10.5077201 },
+    { "lat": 52.2182958, "lon": 10.5071944 },
+    { "lat": 52.2182088, "lon": 10.5071690 },
+    { "lat": 52.2179508, "lon": 10.5070934 },
+    { "lat": 52.2166804, "lon": 10.5067210 },
+    { "lat": 52.2166638, "lon": 10.5067173 }
+  ],
+  "tags": {
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed": "120",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:ballastless": "no",
+    "railway:bidirectional": "possible",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "1901",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 42400881,
+  "bounds": {
+    "minlat": 52.2163777,
+    "minlon": 10.5066331,
+    "maxlat": 52.2166638,
+    "maxlon": 10.5067173
+  },
+  "nodes": [
+    529377205,
+    529377203
+  ],
+  "geometry": [
+    { "lat": 52.2166638, "lon": 10.5067173 },
+    { "lat": 52.2163777, "lon": 10.5066331 }
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "120",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:ballastless": "no",
+    "railway:bidirectional": "possible",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "1901",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 42400882,
+  "bounds": {
+    "minlat": 52.2106421,
+    "minlon": 10.5050088,
+    "maxlat": 52.2163777,
+    "maxlon": 10.5066331
+  },
+  "nodes": [
+    529377203,
+    4211152261,
+    1256292004,
+    1256291861,
+    4211152260,
+    1256291888,
+    1256291771,
+    4211152259,
+    529377202
+  ],
+  "geometry": [
+    { "lat": 52.2163777, "lon": 10.5066331 },
+    { "lat": 52.2149598, "lon": 10.5062811 },
+    { "lat": 52.2149478, "lon": 10.5062787 },
+    { "lat": 52.2135235, "lon": 10.5058665 },
+    { "lat": 52.2129549, "lon": 10.5056978 },
+    { "lat": 52.2120851, "lon": 10.5054428 },
+    { "lat": 52.2113638, "lon": 10.5052344 },
+    { "lat": 52.2111811, "lon": 10.5051798 },
+    { "lat": 52.2106421, "lon": 10.5050088 }
+  ],
+  "tags": {
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed": "120",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:ballastless": "no",
+    "railway:bidirectional": "possible",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "1901",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 42400883,
+  "bounds": {
+    "minlat": 52.2104486,
+    "minlon": 10.5049554,
+    "maxlat": 52.2106421,
+    "maxlon": 10.5050088
+  },
+  "nodes": [
+    529377202,
+    529377201
+  ],
+  "geometry": [
+    { "lat": 52.2106421, "lon": 10.5050088 },
+    { "lat": 52.2104486, "lon": 10.5049554 }
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "120",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:ballastless": "no",
+    "railway:bidirectional": "possible",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "1901",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 42400884,
+  "bounds": {
+    "minlat": 52.2026792,
+    "minlon": 10.5038111,
+    "maxlat": 52.2076164,
+    "maxlon": 10.5041539
+  },
+  "nodes": [
+    529377194,
+    529377195,
+    8689092873,
+    529377192,
+    1258965320,
+    8726318249,
+    529377191,
+    1258965608,
+    529377190,
+    1401393084
+  ],
+  "geometry": [
+    { "lat": 52.2076164, "lon": 10.5041539 },
+    { "lat": 52.2071866, "lon": 10.5040811 },
+    { "lat": 52.2066647, "lon": 10.5039899 },
+    { "lat": 52.2061847, "lon": 10.5039060 },
+    { "lat": 52.2054707, "lon": 10.5038392 },
+    { "lat": 52.2054625, "lon": 10.5038389 },
+    { "lat": 52.2047244, "lon": 10.5038111 },
+    { "lat": 52.2038757, "lon": 10.5038354 },
+    { "lat": 52.2030292, "lon": 10.5039170 },
+    { "lat": 52.2026792, "lon": 10.5039689 }
+  ],
+  "tags": {
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed": "100",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:ballastless": "no",
+    "railway:bidirectional": "possible",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "1901",
+    "source": "landsat",
+    "source:maxspeed": "Zs3",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 42401019,
+  "bounds": {
+    "minlat": 52.2419517,
+    "minlon": 10.5134702,
+    "maxlat": 52.2450703,
+    "maxlon": 10.5211150
+  },
+  "nodes": [
+    529379395,
+    1769081113,
+    5564781542,
+    4211152275,
+    529379394,
+    1769081100,
+    4211152274,
+    529379393,
+    1769081080,
+    529379392,
+    1769081068,
+    529379391,
+    1769081044,
+    529379390,
+    1769081033,
+    529379389,
+    1769081021,
+    529379388,
+    1769081016,
+    529379387,
+    529379386,
+    529379385,
+    1828909015,
+    4211152272,
+    1828909007,
+    529379383
+  ],
+  "geometry": [
+    { "lat": 52.2450703, "lon": 10.5211150 },
+    { "lat": 52.2450055, "lon": 10.5203680 },
+    { "lat": 52.2449596, "lon": 10.5199800 },
+    { "lat": 52.2449294, "lon": 10.5197251 },
+    { "lat": 52.2449188, "lon": 10.5196360 },
+    { "lat": 52.2448423, "lon": 10.5191485 },
+    { "lat": 52.2448126, "lon": 10.5189854 },
+    { "lat": 52.2447547, "lon": 10.5186755 },
+    { "lat": 52.2446648, "lon": 10.5182672 },
+    { "lat": 52.2445627, "lon": 10.5178682 },
+    { "lat": 52.2444377, "lon": 10.5174333 },
+    { "lat": 52.2443108, "lon": 10.5170498 },
+    { "lat": 52.2441680, "lon": 10.5166630 },
+    { "lat": 52.2440127, "lon": 10.5162879 },
+    { "lat": 52.2439108, "lon": 10.5160709 },
+    { "lat": 52.2437878, "lon": 10.5158103 },
+    { "lat": 52.2436198, "lon": 10.5154980 },
+    { "lat": 52.2434367, "lon": 10.5151825 },
+    { "lat": 52.2433196, "lon": 10.5149973 },
+    { "lat": 52.2431215, "lon": 10.5147152 },
+    { "lat": 52.2429724, "lon": 10.5145128 },
+    { "lat": 52.2426460, "lon": 10.5141269 },
+    { "lat": 52.2424927, "lon": 10.5139575 },
+    { "lat": 52.2423376, "lon": 10.5138067 },
+    { "lat": 52.2421610, "lon": 10.5136473 },
+    { "lat": 52.2419517, "lon": 10.5134702 }
+  ],
+  "tags": {
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed": "110",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "ref": "1901",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 42401020,
+  "bounds": {
+    "minlat": 52.2412332,
+    "minlon": 10.5130172,
+    "maxlat": 52.2419517,
+    "maxlon": 10.5134702
+  },
+  "nodes": [
+    529379383,
+    1828908988,
+    529379382
+  ],
+  "geometry": [
+    { "lat": 52.2419517, "lon": 10.5134702 },
+    { "lat": 52.2415923, "lon": 10.5132305 },
+    { "lat": 52.2412332, "lon": 10.5130172 }
+  ],
+  "tags": {
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "-1",
+    "maxspeed": "110",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "ref": "1901",
+    "tunnel": "yes",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 136701521,
+  "bounds": {
+    "minlat": 52.2076164,
+    "minlon": 10.5041539,
+    "maxlat": 52.2104486,
+    "maxlon": 10.5049554
+  },
+  "nodes": [
+    529377201,
+    4211152258,
+    4211152257,
+    529377196,
+    529377194
+  ],
+  "geometry": [
+    { "lat": 52.2104486, "lon": 10.5049554 },
+    { "lat": 52.2094061, "lon": 10.5046581 },
+    { "lat": 52.2093202, "lon": 10.5046333 },
+    { "lat": 52.2084830, "lon": 10.5043921 },
+    { "lat": 52.2076164, "lon": 10.5041539 }
+  ],
+  "tags": {
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed": "120",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:ballastless": "no",
+    "railway:bidirectional": "possible",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "1901",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 175499870,
+  "bounds": {
+    "minlat": 52.1708062,
+    "minlon": 10.5039689,
+    "maxlat": 52.2026792,
+    "maxlon": 10.5164119
+  },
+  "nodes": [
+    1401393084,
+    1401393081,
+    1401393080,
+    6187578181,
+    1401393071,
+    1401393069,
+    1401393067,
+    1401393066,
+    11389502652,
+    8689856492,
+    11389502657,
+    11389502656,
+    11389502655,
+    11389502666,
+    11389502668,
+    313507666,
+    6779354037,
+    99185581,
+    2329485359,
+    1401393032,
+    1401393031,
+    1860777407
+  ],
+  "geometry": [
+    { "lat": 52.2026792, "lon": 10.5039689 },
+    { "lat": 52.2022694, "lon": 10.5040466 },
+    { "lat": 52.2018440, "lon": 10.5041611 },
+    { "lat": 52.2015099, "lon": 10.5042359 },
+    { "lat": 52.2010209, "lon": 10.5043624 },
+    { "lat": 52.2006295, "lon": 10.5044873 },
+    { "lat": 52.1999851, "lon": 10.5047094 },
+    { "lat": 52.1988229, "lon": 10.5051741 },
+    { "lat": 52.1970839, "lon": 10.5058714 },
+    { "lat": 52.1965597, "lon": 10.5060824 },
+    { "lat": 52.1952915, "lon": 10.5065932 },
+    { "lat": 52.1936031, "lon": 10.5072729 },
+    { "lat": 52.1918046, "lon": 10.5079984 },
+    { "lat": 52.1900505, "lon": 10.5087035 },
+    { "lat": 52.1825827, "lon": 10.5116992 },
+    { "lat": 52.1747407, "lon": 10.5148464 },
+    { "lat": 52.1746615, "lon": 10.5148794 },
+    { "lat": 52.1746130, "lon": 10.5148979 },
+    { "lat": 52.1736095, "lon": 10.5153024 },
+    { "lat": 52.1735437, "lon": 10.5153291 },
+    { "lat": 52.1714861, "lon": 10.5161484 },
+    { "lat": 52.1708062, "lon": 10.5164119 }
+  ],
+  "tags": {
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed": "100",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:ballastless": "no",
+    "railway:bidirectional": "possible",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "1901",
+    "source": "Bing;extrapolation",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 413682966,
+  "bounds": {
+    "minlat": 52.2380624,
+    "minlon": 10.5126073,
+    "maxlat": 52.2412332,
+    "maxlon": 10.5130172
+  },
+  "nodes": [
+    529379382,
+    1828271992,
+    1166189357,
+    529379381,
+    1828271874,
+    1166189498,
+    1828271777,
+    529379380,
+    1828271718,
+    1828271681,
+    529379379,
+    1828271507,
+    529379378,
+    4211152271
+  ],
+  "geometry": [
+    { "lat": 52.2412332, "lon": 10.5130172 },
+    { "lat": 52.2410131, "lon": 10.5129090 },
+    { "lat": 52.2407955, "lon": 10.5128193 },
+    { "lat": 52.2404990, "lon": 10.5127250 },
+    { "lat": 52.2403077, "lon": 10.5126793 },
+    { "lat": 52.2401113, "lon": 10.5126461 },
+    { "lat": 52.2398769, "lon": 10.5126190 },
+    { "lat": 52.2396423, "lon": 10.5126075 },
+    { "lat": 52.2394170, "lon": 10.5126073 },
+    { "lat": 52.2391906, "lon": 10.5126142 },
+    { "lat": 52.2387371, "lon": 10.5126515 },
+    { "lat": 52.2384667, "lon": 10.5126686 },
+    { "lat": 52.2381965, "lon": 10.5126892 },
+    { "lat": 52.2380624, "lon": 10.5126937 }
+  ],
+  "tags": {
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed": "110",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "ref": "1901",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 413682970,
+  "bounds": {
+    "minlat": 52.2328640,
+    "minlon": 10.5114607,
+    "maxlat": 52.2332916,
+    "maxlon": 10.5115839
+  },
+  "nodes": [
+    4149583304,
+    4149583303
+  ],
+  "geometry": [
+    { "lat": 52.2332916, "lon": 10.5115839 },
+    { "lat": 52.2328640, "lon": 10.5114607 }
+  ],
+  "tags": {
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed": "120",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:bidirectional": "possible",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "1901",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 421341112,
+  "bounds": {
+    "minlat": 52.2332916,
+    "minlon": 10.5115839,
+    "maxlat": 52.2380624,
+    "maxlon": 10.5126969
+  },
+  "nodes": [
+    4211152271,
+    4211152270,
+    1828271323,
+    1828271231,
+    4211152269,
+    529379377,
+    1828271083,
+    1166189597,
+    529379375,
+    529379374,
+    4211152268,
+    1828908971,
+    529377208,
+    4149583304
+  ],
+  "geometry": [
+    { "lat": 52.2380624, "lon": 10.5126937 },
+    { "lat": 52.2380451, "lon": 10.5126943 },
+    { "lat": 52.2379668, "lon": 10.5126969 },
+    { "lat": 52.2377362, "lon": 10.5126969 },
+    { "lat": 52.2376004, "lon": 10.5126856 },
+    { "lat": 52.2372754, "lon": 10.5126602 },
+    { "lat": 52.2370582, "lon": 10.5126249 },
+    { "lat": 52.2368400, "lon": 10.5125853 },
+    { "lat": 52.2364348, "lon": 10.5124861 },
+    { "lat": 52.2355560, "lon": 10.5122409 },
+    { "lat": 52.2355537, "lon": 10.5122403 },
+    { "lat": 52.2350841, "lon": 10.5121066 },
+    { "lat": 52.2346793, "lon": 10.5119887 },
+    { "lat": 52.2332916, "lon": 10.5115839 }
+  ],
+  "tags": {
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed": "120",
+    "name": "Bahnstrecke Braunschweig-Bad Harzburg",
+    "operator": "DB Netz AG",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "forward",
+    "railway:pzb": "yes",
+    "ref": "1901",
+    "usage": "main",
+    "wikipedia": "de:Bahnstrecke Braunschweig–Bad Harzburg",
+    "workrules": "DE:EBO"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,2099 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-06-02T14:38:29Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 21308210,
+  "lat": 52.4547776,
+  "lon": 10.5544921,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "right",
+    "railway:signal:shunting": "DE-ESO:ra10",
+    "railway:signal:shunting:form": "sign",
+    "railway:signal:shunting:height": "normal"
+  }
+},
+{
+  "type": "node",
+  "id": 52687912,
+  "lat": 52.4167643,
+  "lon": 10.5245663,
+  "tags": {
+    "crossing:barrier": "half",
+    "crossing:bell": "yes",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "24.2",
+    "railway:position:exact": "24.276"
+  }
+},
+{
+  "type": "node",
+  "id": 256322864,
+  "lat": 52.4208023,
+  "lon": 10.5286634,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 271680344,
+  "lat": 52.4402706,
+  "lon": 10.5380364,
+  "tags": {
+    "bicycle": "yes",
+    "crossing": "traffic_signals",
+    "crossing:barrier": "full",
+    "crossing:bell": "yes",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "27.1",
+    "railway:position:exact": "27.114",
+    "supervised": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 271680444,
+  "lat": 52.4399212,
+  "lon": 10.5371078,
+  "tags": {
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "27.0"
+  }
+},
+{
+  "type": "node",
+  "id": 271680742,
+  "lat": 52.4417040,
+  "lon": 10.5682403,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:crossing": "DE-ESO:so16",
+    "railway:signal:crossing:form": "light",
+    "railway:signal:crossing:repeated": "no",
+    "railway:signal:crossing:shortened": "no",
+    "railway:signal:crossing:states": "DE-ESO:so16a;DE-ESO:so16b",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left"
+  }
+},
+{
+  "type": "node",
+  "id": 271680916,
+  "lat": 52.4419678,
+  "lon": 10.5691095,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left",
+    "railway:signal:whistle": "DE-ESO:db:bü4",
+    "railway:signal:whistle:form": "sign",
+    "railway:signal:whistle:only_transit": "no",
+    "railway:signal:whistle:twice": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 271681221,
+  "lat": 52.4436493,
+  "lon": 10.5718378,
+  "tags": {
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "29.5"
+  }
+},
+{
+  "type": "node",
+  "id": 275299811,
+  "lat": 52.4411788,
+  "lon": 10.5581340,
+  "tags": {
+    "note": "mit AUTO-HET",
+    "railway": "signal",
+    "railway:signal:crossing_info": "DE-ESO:bü-kennzeichentafel",
+    "railway:signal:crossing_info:caption": "Bü 28,4",
+    "railway:signal:crossing_info:form": "sign",
+    "railway:signal:crossing_info:height": "normal",
+    "railway:signal:crossing_info:repeated": "no",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left"
+  }
+},
+{
+  "type": "node",
+  "id": 472389835,
+  "lat": 52.4302355,
+  "lon": 10.5316428,
+  "tags": {
+    "barrier": "no",
+    "crossing:barrier": "no",
+    "crossing:bell": "no",
+    "crossing:chicane": "no",
+    "crossing:light": "no",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "25.880",
+    "source": "survey",
+    "supervised": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 942281097,
+  "lat": 52.4411631,
+  "lon": 10.5574931,
+  "tags": {
+    "bicycle": "yes",
+    "crossing": "traffic_signals",
+    "crossing:barrier": "full",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 992838692,
+  "lat": 52.4411722,
+  "lon": 10.5578448,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing:barrier": "half",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "28.4",
+    "railway:position:exact": "28.474"
+  }
+},
+{
+  "type": "node",
+  "id": 1789947822,
+  "lat": 52.4412671,
+  "lon": 10.5618500,
+  "tags": {
+    "crossing:barrier": "no",
+    "crossing:light": "no",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "28.743"
+  }
+},
+{
+  "type": "node",
+  "id": 1818181934,
+  "lat": 52.4485908,
+  "lon": 10.5712299,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left",
+    "railway:signal:speed_limit_distant": "DE-ESO:lf6",
+    "railway:signal:speed_limit_distant:form": "sign",
+    "railway:signal:speed_limit_distant:height": "normal",
+    "railway:signal:speed_limit_distant:speed": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 1819107668,
+  "lat": 52.4183228,
+  "lon": 10.5261906,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:combined": "DE-ESO:ks",
+    "railway:signal:combined:form": "light",
+    "railway:signal:combined:function": "entry",
+    "railway:signal:combined:height": "normal",
+    "railway:signal:combined:shortened": "no",
+    "railway:signal:combined:states": "DE-ESO:hp0;DE-ESO:ks1;DE-ESO:ks2",
+    "railway:signal:combined:substitute_signal": "DE-ESO:dr:zs1",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left",
+    "railway:signal:traversable": "DE-ESO:mastschild_rot-weiss",
+    "railway:signal:traversable:type": "written_default_speed;dictated_default_speed",
+    "ref": "44 F"
+  }
+},
+{
+  "type": "node",
+  "id": 1846382570,
+  "lat": 52.4413609,
+  "lon": 10.5657764,
+  "tags": {
+    "crossing:barrier": "no",
+    "crossing:bell": "no",
+    "crossing:light": "no",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "29.011"
+  }
+},
+{
+  "type": "node",
+  "id": 2429434693,
+  "lat": 52.4334099,
+  "lon": 10.5328359,
+  "tags": {
+    "crossing:barrier": "no",
+    "crossing:bell": "no",
+    "crossing:light": "no",
+    "crossing:saltire": "yes",
+    "crossing:supervision": "no",
+    "railway": "level_crossing",
+    "railway:position": "26.242"
+  }
+},
+{
+  "type": "node",
+  "id": 2687953495,
+  "lat": 52.4168372,
+  "lon": 10.5246106,
+  "tags": {
+    "bicycle": "yes",
+    "crossing:barrier": "half",
+    "crossing:bell": "yes",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 3062647243,
+  "lat": 52.4402325,
+  "lon": 10.5379190,
+  "tags": {
+    "bicycle": "yes",
+    "crossing": "traffic_signals",
+    "crossing:barrier": "full",
+    "crossing:bell": "yes",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "crossing",
+    "railway:position": "27.1",
+    "railway:position:exact": "27.114",
+    "supervised": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3062647244,
+  "lat": 52.4403145,
+  "lon": 10.5381739,
+  "tags": {
+    "bicycle": "yes",
+    "crossing": "traffic_signals",
+    "crossing:barrier": "full",
+    "crossing:bell": "yes",
+    "crossing:light": "yes",
+    "crossing:saltire": "yes",
+    "railway": "crossing",
+    "railway:position": "27.1",
+    "railway:position:exact": "27.114",
+    "supervised": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143855,
+  "lat": 52.4161117,
+  "lon": 10.5242776,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "70",
+    "railway:signal:speed_limit_distant": "DE-ESO:lf6",
+    "railway:signal:speed_limit_distant:form": "sign",
+    "railway:signal:speed_limit_distant:height": "normal",
+    "railway:signal:speed_limit_distant:speed": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143865,
+  "lat": 52.4216029,
+  "lon": 10.5289498,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left",
+    "railway:signal:whistle": "DE-ESO:db:bü4",
+    "railway:signal:whistle:form": "sign",
+    "railway:signal:whistle:only_transit": "no",
+    "railway:signal:whistle:twice": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143866,
+  "lat": 52.4221424,
+  "lon": 10.5291218,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "60",
+    "railway:signal:whistle": "DE-ESO:db:bü4",
+    "railway:signal:whistle:form": "sign",
+    "railway:signal:whistle:only_transit": "no",
+    "railway:signal:whistle:twice": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143867,
+  "lat": 52.4224812,
+  "lon": 10.5292281,
+  "tags": {
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "25.0"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143868,
+  "lat": 52.4229889,
+  "lon": 10.5293918,
+  "tags": {
+    "crossing:barrier": "no",
+    "crossing:bell": "no",
+    "crossing:light": "no",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "25.057"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143869,
+  "lat": 52.4233727,
+  "lon": 10.5295068,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "80"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143870,
+  "lat": 52.4250182,
+  "lon": 10.5300139,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right",
+    "railway:signal:speed_limit_distant": "DE-ESO:lf6",
+    "railway:signal:speed_limit_distant:form": "sign",
+    "railway:signal:speed_limit_distant:height": "normal",
+    "railway:signal:speed_limit_distant:speed": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143871,
+  "lat": 52.4268634,
+  "lon": 10.5305978,
+  "tags": {
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "25.5"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143873,
+  "lat": 52.4272888,
+  "lon": 10.5307285,
+  "tags": {
+    "crossing:barrier": "no",
+    "crossing:bell": "no",
+    "crossing:light": "no",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "25.544"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143875,
+  "lat": 52.4311981,
+  "lon": 10.5320031,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143877,
+  "lat": 52.4330606,
+  "lon": 10.5327055,
+  "tags": {
+    "note": "BÜ",
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "80"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143878,
+  "lat": 52.4348703,
+  "lon": 10.5333795,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:crossing": "DE-ESO:so16",
+    "railway:signal:crossing:form": "light",
+    "railway:signal:crossing:repeated": "no",
+    "railway:signal:crossing:shortened": "no",
+    "railway:signal:crossing:states": "DE-ESO:so16a;DE-ESO:so16b",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143880,
+  "lat": 52.4408655,
+  "lon": 10.5450609,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:crossing_distant": "DE-ESO:bü2",
+    "railway:signal:crossing_distant:form": "sign",
+    "railway:signal:crossing_distant:shortened": "no",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143881,
+  "lat": 52.4409417,
+  "lon": 10.5483158,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:crossing": "DE-ESO:so16",
+    "railway:signal:crossing:form": "light",
+    "railway:signal:crossing:repeated": "no",
+    "railway:signal:crossing:shortened": "no",
+    "railway:signal:crossing:states": "DE-ESO:so16a;DE-ESO:so16b",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143882,
+  "lat": 52.4411843,
+  "lon": 10.5582756,
+  "tags": {
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "28.5"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143884,
+  "lat": 52.4412651,
+  "lon": 10.5617172,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right",
+    "railway:signal:whistle": "DE-ESO:db:bü4",
+    "railway:signal:whistle:form": "sign",
+    "railway:signal:whistle:only_transit": "no",
+    "railway:signal:whistle:twice": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143885,
+  "lat": 52.4413581,
+  "lon": 10.5656823,
+  "tags": {
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "29.0"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143886,
+  "lat": 52.4508365,
+  "lon": 10.5659773,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:distant": "DE-ESO:ks",
+    "railway:signal:distant:form": "light",
+    "railway:signal:distant:height": "normal",
+    "railway:signal:distant:repeated": "no",
+    "railway:signal:distant:shortened": "no",
+    "railway:signal:distant:states": "DE-ESO:ks1;DE-ESO:ks2",
+    "railway:signal:position": "right",
+    "railway:signal:speed_limit_distant": "DE-ESO:zs3v",
+    "railway:signal:speed_limit_distant:form": "light",
+    "railway:signal:speed_limit_distant:height": "normal",
+    "railway:signal:speed_limit_distant:speed": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 5033143887,
+  "lat": 52.4540072,
+  "lon": 10.5571002,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:combined": "DE-ESO:ks",
+    "railway:signal:combined:form": "light",
+    "railway:signal:combined:function": "entry",
+    "railway:signal:combined:height": "normal",
+    "railway:signal:combined:shortened": "no",
+    "railway:signal:combined:states": "DE-ESO:hp0;DE-ESO:ks1;DE-ESO:ks2",
+    "railway:signal:combined:substitute_signal": "DE-ESO:db:zs7",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right",
+    "railway:signal:speed_limit": "DE-ESO:zs3",
+    "railway:signal:speed_limit:form": "light",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "60",
+    "railway:signal:speed_limit_distant": "DE-ESO:zs3v",
+    "railway:signal:speed_limit_distant:form": "light",
+    "railway:signal:speed_limit_distant:height": "normal",
+    "railway:signal:speed_limit_distant:speed": "60;?;off",
+    "railway:signal:traversable": "DE-ESO:mastschild_gelb-weiss",
+    "railway:signal:traversable:type": "written_default_speed;dictated_default_speed",
+    "ref": "C 455"
+  }
+},
+{
+  "type": "node",
+  "id": 6188985002,
+  "lat": 52.4162962,
+  "lon": 10.5243501,
+  "tags": {
+    "disused:public_transport": "stop_position",
+    "disused:railway": "stop",
+    "disused:train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7685218107,
+  "lat": 52.4134964,
+  "lon": 10.5231870,
+  "tags": {
+    "abandoned:railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right",
+    "railway:signal:station_distant": "DE-ESO:ne6",
+    "railway:signal:station_distant:form": "sign"
+  }
+},
+{
+  "type": "node",
+  "id": 7685218109,
+  "lat": 52.4153734,
+  "lon": 10.5239736,
+  "tags": {
+    "railway": "switch",
+    "railway:local_operated": "no",
+    "railway:switch": "default",
+    "railway:switch:electric": "yes",
+    "railway:switch:resetting": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7685218110,
+  "lat": 52.4104222,
+  "lon": 10.5219192,
+  "tags": {
+    "railway": "switch",
+    "railway:local_operated": "no",
+    "railway:maxspeed:diverging": "40",
+    "railway:switch": "default",
+    "railway:switch:electric": "yes",
+    "railway:switch:movable_frog": "no",
+    "railway:switch:resetting": "no",
+    "railway:turnout_side": "right",
+    "ref": "44W1"
+  }
+},
+{
+  "type": "node",
+  "id": 8443468947,
+  "lat": 52.4132957,
+  "lon": 10.5231035,
+  "tags": {
+    "local_ref": "2",
+    "name": "Rötgesbüttel",
+    "operator": "DB Station&Service AG",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8762203410,
+  "lat": 52.4146776,
+  "lon": 10.5236810,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:main": "DE-ESO:ks",
+    "railway:signal:main:form": "light",
+    "railway:signal:main:function": "exit",
+    "railway:signal:main:height": "normal",
+    "railway:signal:main:states": "DE-ESO:hp0;DE-ESO:ks1",
+    "railway:signal:main:substitute_signal": "DE-ESO:dr:zs1",
+    "railway:signal:position": "left",
+    "railway:signal:traversable": "DE-ESO:mastschild_rot-weiss",
+    "railway:signal:traversable:type": "written_default_speed;dictated_default_speed",
+    "ref": "44 N2"
+  }
+},
+{
+  "type": "node",
+  "id": 8762203411,
+  "lat": 52.4125021,
+  "lon": 10.5227769,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:main": "DE-ESO:ks",
+    "railway:signal:main:form": "light",
+    "railway:signal:main:function": "exit",
+    "railway:signal:main:height": "normal",
+    "railway:signal:main:states": "DE-ESO:hp0;DE-ESO:ks1",
+    "railway:signal:main:substitute_signal": "DE-ESO:dr:zs1",
+    "railway:signal:position": "right",
+    "railway:signal:traversable": "DE-ESO:mastschild_rot-weiss",
+    "railway:signal:traversable:type": "written_default_speed;dictated_default_speed",
+    "ref": "44P2"
+  }
+},
+{
+  "type": "node",
+  "id": 8779561212,
+  "lat": 52.4161045,
+  "lon": 10.5242757,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "80"
+  }
+},
+{
+  "type": "node",
+  "id": 8779561213,
+  "lat": 52.4199258,
+  "lon": 10.5280998,
+  "tags": {
+    "inscription": "Bü",
+    "note": "mit Schild \"BÜ\"",
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "70"
+  }
+},
+{
+  "type": "node",
+  "id": 8779561214,
+  "lat": 52.4283022,
+  "lon": 10.5310370,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left",
+    "railway:signal:speed_limit_distant": "DE-ESO:lf6",
+    "railway:signal:speed_limit_distant:form": "sign",
+    "railway:signal:speed_limit_distant:height": "normal",
+    "railway:signal:speed_limit_distant:speed": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 8779561215,
+  "lat": 52.4247937,
+  "lon": 10.5299441,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:distant": "DE-ESO:ks",
+    "railway:signal:distant:form": "light",
+    "railway:signal:distant:height": "normal",
+    "railway:signal:distant:repeated": "no",
+    "railway:signal:distant:shortened": "no",
+    "railway:signal:distant:states": "DE-ESO:ks1;DE-ESO:ks2",
+    "railway:signal:position": "left"
+  }
+},
+{
+  "type": "node",
+  "id": 8779584920,
+  "lat": 52.4317762,
+  "lon": 10.5322219,
+  "tags": {
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "26.0"
+  }
+},
+{
+  "type": "node",
+  "id": 8779584921,
+  "lat": 52.4331148,
+  "lon": 10.5327234,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:crossing_distant": "DE-ESO:bü2",
+    "railway:signal:crossing_distant:form": "sign",
+    "railway:signal:crossing_distant:shortened": "no",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right"
+  }
+},
+{
+  "type": "node",
+  "id": 8779584923,
+  "lat": 52.4199010,
+  "lon": 10.5280785,
+  "tags": {
+    "crossing:barrier": "full",
+    "crossing:bell": "no",
+    "crossing:light": "no",
+    "crossing:saltire": "yes",
+    "railway": "level_crossing",
+    "railway:position": "24.702"
+  }
+},
+{
+  "type": "node",
+  "id": 8779679217,
+  "lat": 52.4413654,
+  "lon": 10.5659115,
+  "tags": {
+    "inscription": "Bü",
+    "note": "mit Schild \"BÜ\"",
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "80"
+  }
+},
+{
+  "type": "node",
+  "id": 9071752510,
+  "lat": 52.4413180,
+  "lon": 10.5641092,
+  "tags": {
+    "name": "Isenbüttel",
+    "planned:public_transport": "station",
+    "railway": "planned",
+    "source": "https://www.regionalverband-braunschweig.de/fileadmin/user_upload/30_Themen/SPNV/Stationsoffensive/2021_Stationsoffensive_A4_Ansicht.pdf",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10741073140,
+  "lat": 52.4411178,
+  "lon": 10.5555089,
+  "tags": {
+    "disused:railway": "station",
+    "name": "Isenbüttel-Dorf",
+    "wikidata": "Q117191124"
+  }
+},
+{
+  "type": "node",
+  "id": 11034419077,
+  "lat": 52.4411583,
+  "lon": 10.5572446,
+  "tags": {
+    "note": "mit AUTO-HET",
+    "railway": "signal",
+    "railway:signal:crossing_info": "DE-ESO:bü-kennzeichentafel",
+    "railway:signal:crossing_info:caption": "Bü 28,4",
+    "railway:signal:crossing_info:form": "sign",
+    "railway:signal:crossing_info:height": "normal",
+    "railway:signal:crossing_info:repeated": "no",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right"
+  }
+},
+{
+  "type": "node",
+  "id": 11034419078,
+  "lat": 52.4401638,
+  "lon": 10.5377152,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:crossing_info": "DE-ESO:bü-kennzeichentafel",
+    "railway:signal:crossing_info:caption": "Bü 27,1",
+    "railway:signal:crossing_info:form": "sign",
+    "railway:signal:crossing_info:height": "normal",
+    "railway:signal:crossing_info:repeated": "no",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right"
+  }
+},
+{
+  "type": "node",
+  "id": 11071221928,
+  "lat": 52.4553432,
+  "lon": 10.5506771,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:height": "dwarf",
+    "railway:signal:speed_limit:speed": "80"
+  }
+},
+{
+  "type": "node",
+  "id": 11071221974,
+  "lat": 52.4503182,
+  "lon": 10.5674469,
+  "tags": {
+    "railway": "milestone",
+    "railway:milestone:catenary_mast": "no",
+    "railway:milestone:emergency_brake_override": "no",
+    "railway:position": "30.5"
+  }
+},
+{
+  "type": "node",
+  "id": 11075718656,
+  "lat": 52.4403404,
+  "lon": 10.5382540,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:crossing_info": "DE-ESO:bü-kennzeichentafel",
+    "railway:signal:crossing_info:caption": "Bü 27,1",
+    "railway:signal:crossing_info:form": "sign",
+    "railway:signal:crossing_info:height": "normal",
+    "railway:signal:crossing_info:repeated": "no",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left"
+  }
+},
+{
+  "type": "node",
+  "id": 11388535002,
+  "lat": 52.4478355,
+  "lon": 10.5720112,
+  "tags": {
+    "railway": "milestone",
+    "railway:position": "30.0"
+  }
+},
+{
+  "type": "node",
+  "id": 11391664853,
+  "lat": 52.4313283,
+  "lon": 10.5320524,
+  "tags": {
+    "railway": "milestone",
+    "railway:position": "26.0"
+  }
+},
+{
+  "type": "node",
+  "id": 11391664855,
+  "lat": 52.4409173,
+  "lon": 10.5474024,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:crossing": "DE-ESO:so16",
+    "railway:signal:crossing:form": "light",
+    "railway:signal:crossing:states": "DE-ESO:so16a;DE-ESO:so16b",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right"
+  }
+},
+{
+  "type": "node",
+  "id": 11391664856,
+  "lat": 52.4409824,
+  "lon": 10.5500118,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:crossing_distant": "DE-ESO:bü2",
+    "railway:signal:crossing_distant:form": "sign",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left"
+  }
+},
+{
+  "type": "node",
+  "id": 11391664857,
+  "lat": 52.4412341,
+  "lon": 10.5605838,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "forward",
+    "railway:signal:position": "right",
+    "railway:signal:whistle": "DE-ESO:db:bü4",
+    "railway:signal:whistle:form": "sign",
+    "railway:signal:whistle:only_transit": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11391664860,
+  "lat": 52.4422068,
+  "lon": 10.5697176,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:crossing_distant": "DE-ESO:bü2",
+    "railway:signal:crossing_distant:form": "sign",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left"
+  }
+},
+{
+  "type": "node",
+  "id": 11391664862,
+  "lat": 52.4426816,
+  "lon": 10.5706206,
+  "tags": {
+    "railway": "signal",
+    "railway:signal:direction": "backward",
+    "railway:signal:position": "left",
+    "railway:signal:speed_limit": "DE-ESO:lf7",
+    "railway:signal:speed_limit:form": "sign",
+    "railway:signal:speed_limit:height": "normal",
+    "railway:signal:speed_limit:speed": "60",
+    "railway:signal:whistle": "DE-ESO:db:bü4",
+    "railway:signal:whistle:form": "sign",
+    "railway:signal:whistle:only_transit": "no",
+    "railway:signal:whistle:twice": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11391780123,
+  "lat": 52.4184490,
+  "lon": 10.5263683,
+  "tags": {
+    "railway": "milestone",
+    "railway:position": "24.5"
+  }
+},
+{
+  "type": "way",
+  "id": 13489243,
+  "bounds": {
+    "minlat": 52.4413597,
+    "minlon": 10.5657399,
+    "maxlat": 52.4423967,
+    "maxlon": 10.5701203
+  },
+  "nodes": [
+    453177421,
+    1846382570,
+    8779679217,
+    271680741,
+    9227862922,
+    11391664859,
+    271680743,
+    271680742,
+    96083766,
+    11391664858,
+    271680916,
+    271680917,
+    11391664860,
+    271680918,
+    128183214
+  ],
+  "geometry": [
+    { "lat": 52.4413597, "lon": 10.5657399 },
+    { "lat": 52.4413609, "lon": 10.5657764 },
+    { "lat": 52.4413654, "lon": 10.5659115 },
+    { "lat": 52.4413953, "lon": 10.5663531 },
+    { "lat": 52.4414260, "lon": 10.5666945 },
+    { "lat": 52.4414811, "lon": 10.5671182 },
+    { "lat": 52.4415766, "lon": 10.5676865 },
+    { "lat": 52.4417040, "lon": 10.5682403 },
+    { "lat": 52.4417115, "lon": 10.5682729 },
+    { "lat": 52.4418433, "lon": 10.5687340 },
+    { "lat": 52.4419678, "lon": 10.5691095 },
+    { "lat": 52.4420577, "lon": 10.5693752 },
+    { "lat": 52.4422068, "lon": 10.5697176 },
+    { "lat": 52.4422458, "lon": 10.5698071 },
+    { "lat": 52.4423967, "lon": 10.5701203 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed:backward": "60",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 23657867,
+  "bounds": {
+    "minlat": 52.4199443,
+    "minlon": 10.5281157,
+    "maxlat": 52.4200083,
+    "maxlon": 10.5281635
+  },
+  "nodes": [
+    256322905,
+    96083759
+  ],
+  "geometry": [
+    { "lat": 52.4199443, "lon": 10.5281157 },
+    { "lat": 52.4200083, "lon": 10.5281635 }
+  ],
+  "tags": {
+    "bridge": "yes",
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "lit": "no",
+    "name": "BS - Gifhorn",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:position": "24.710",
+    "railway:pzb": "yes",
+    "railway:radio": "gsm-r",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 23657868,
+  "bounds": {
+    "minlat": 52.4208023,
+    "minlon": 10.5286634,
+    "maxlat": 52.4233727,
+    "maxlon": 10.5295068
+  },
+  "nodes": [
+    256322864,
+    1819107703,
+    1819107704,
+    5033143865,
+    1819107705,
+    5033143866,
+    1819107707,
+    5033143867,
+    5033143868,
+    5033143869
+  ],
+  "geometry": [
+    { "lat": 52.4208023, "lon": 10.5286634 },
+    { "lat": 52.4209653, "lon": 10.5287380 },
+    { "lat": 52.4211368, "lon": 10.5287964 },
+    { "lat": 52.4216029, "lon": 10.5289498 },
+    { "lat": 52.4216240, "lon": 10.5289562 },
+    { "lat": 52.4221424, "lon": 10.5291218 },
+    { "lat": 52.4223809, "lon": 10.5291953 },
+    { "lat": 52.4224812, "lon": 10.5292281 },
+    { "lat": 52.4229889, "lon": 10.5293918 },
+    { "lat": 52.4233727, "lon": 10.5295068 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed": "60",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "railway:radio": "gsm-r",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 25265462,
+  "bounds": {
+    "minlat": 52.4411788,
+    "minlon": 10.5581340,
+    "maxlat": 52.4413479,
+    "maxlon": 10.5653188
+  },
+  "nodes": [
+    275299811,
+    5033143882,
+    11391664857,
+    5033143884,
+    1789947822,
+    1789947824,
+    9071752510,
+    140209246
+  ],
+  "geometry": [
+    { "lat": 52.4411788, "lon": 10.5581340 },
+    { "lat": 52.4411843, "lon": 10.5582756 },
+    { "lat": 52.4412341, "lon": 10.5605838 },
+    { "lat": 52.4412651, "lon": 10.5617172 },
+    { "lat": 52.4412671, "lon": 10.5618500 },
+    { "lat": 52.4412892, "lon": 10.5626419 },
+    { "lat": 52.4413180, "lon": 10.5641092 },
+    { "lat": 52.4413479, "lon": 10.5653188 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed:backward": "80",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 25265683,
+  "bounds": {
+    "minlat": 52.4411624,
+    "minlon": 10.5574649,
+    "maxlat": 52.4411788,
+    "maxlon": 10.5581340
+  },
+  "nodes": [
+    275299810,
+    942281097,
+    992838692,
+    275299811
+  ],
+  "geometry": [
+    { "lat": 52.4411624, "lon": 10.5574649 },
+    { "lat": 52.4411631, "lon": 10.5574931 },
+    { "lat": 52.4411722, "lon": 10.5578448 },
+    { "lat": 52.4411788, "lon": 10.5581340 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 30138463,
+  "bounds": {
+    "minlat": 52.4525543,
+    "minlon": 10.5506771,
+    "maxlat": 52.4553432,
+    "maxlon": 10.5610653
+  },
+  "nodes": [
+    1818182017,
+    10796835780,
+    10796835779,
+    10796835778,
+    5033143887,
+    10796835777,
+    10796835776,
+    10796835775,
+    10796835781,
+    21308210,
+    1818182225,
+    1818182234,
+    462270753,
+    11071221928
+  ],
+  "geometry": [
+    { "lat": 52.4525543, "lon": 10.5610653 },
+    { "lat": 52.4530748, "lon": 10.5595969 },
+    { "lat": 52.4534312, "lon": 10.5586393 },
+    { "lat": 52.4538633, "lon": 10.5575030 },
+    { "lat": 52.4540072, "lon": 10.5571002 },
+    { "lat": 52.4540810, "lon": 10.5568934 },
+    { "lat": 52.4542413, "lon": 10.5564084 },
+    { "lat": 52.4543672, "lon": 10.5560028 },
+    { "lat": 52.4545698, "lon": 10.5553005 },
+    { "lat": 52.4547776, "lon": 10.5544921 },
+    { "lat": 52.4550228, "lon": 10.5533004 },
+    { "lat": 52.4551252, "lon": 10.5526843 },
+    { "lat": 52.4552037, "lon": 10.5520740 },
+    { "lat": 52.4553432, "lon": 10.5506771 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed": "60",
+    "maxspeed:backward": "80",
+    "maxspeed:forward": "60",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "operator": "DB Netz AG",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "both",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 38358480,
+  "bounds": {
+    "minlat": 52.4413479,
+    "minlon": 10.5653188,
+    "maxlat": 52.4413597,
+    "maxlon": 10.5657399
+  },
+  "nodes": [
+    140209246,
+    5033143885,
+    453177421
+  ],
+  "geometry": [
+    { "lat": 52.4413479, "lon": 10.5653188 },
+    { "lat": 52.4413581, "lon": 10.5656823 },
+    { "lat": 52.4413597, "lon": 10.5657399 }
+  ],
+  "tags": {
+    "bridge": "yes",
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed:backward": "80",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:position": "29.000",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 170660003,
+  "bounds": {
+    "minlat": 52.4477336,
+    "minlon": 10.5610653,
+    "maxlat": 52.4525543,
+    "maxlon": 10.5720928
+  },
+  "nodes": [
+    271681390,
+    11388535002,
+    1818181930,
+    96083770,
+    1818181932,
+    271681231,
+    1818181934,
+    173515662,
+    1818181937,
+    1818181940,
+    96083771,
+    11388535003,
+    11071221974,
+    5033143886,
+    10796835773,
+    1818182017
+  ],
+  "geometry": [
+    { "lat": 52.4477336, "lon": 10.5720928 },
+    { "lat": 52.4478355, "lon": 10.5720112 },
+    { "lat": 52.4479586, "lon": 10.5719126 },
+    { "lat": 52.4481812, "lon": 10.5716933 },
+    { "lat": 52.4483773, "lon": 10.5714936 },
+    { "lat": 52.4485525, "lon": 10.5712891 },
+    { "lat": 52.4485908, "lon": 10.5712299 },
+    { "lat": 52.4489407, "lon": 10.5707537 },
+    { "lat": 52.4491136, "lon": 10.5704715 },
+    { "lat": 52.4492679, "lon": 10.5702003 },
+    { "lat": 52.4495531, "lon": 10.5695871 },
+    { "lat": 52.4497756, "lon": 10.5689921 },
+    { "lat": 52.4503182, "lon": 10.5674469 },
+    { "lat": 52.4508365, "lon": 10.5659773 },
+    { "lat": 52.4510764, "lon": 10.5652825 },
+    { "lat": 52.4525543, "lon": 10.5610653 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "both",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 170660004,
+  "bounds": {
+    "minlat": 52.4429153,
+    "minlon": 10.5709872,
+    "maxlat": 52.4474894,
+    "maxlon": 10.5727925
+  },
+  "nodes": [
+    271681219,
+    11391664861,
+    1818181928,
+    271681221,
+    271681222,
+    271681223,
+    271681224,
+    271681225,
+    271681226,
+    271681227,
+    1808908446,
+    271681229,
+    1808908454,
+    271681230,
+    259667963,
+    320044177
+  ],
+  "geometry": [
+    { "lat": 52.4429153, "lon": 10.5709872 },
+    { "lat": 52.4431489, "lon": 10.5712958 },
+    { "lat": 52.4434004, "lon": 10.5715937 },
+    { "lat": 52.4436493, "lon": 10.5718378 },
+    { "lat": 52.4441402, "lon": 10.5722331 },
+    { "lat": 52.4445582, "lon": 10.5724622 },
+    { "lat": 52.4451416, "lon": 10.5726981 },
+    { "lat": 52.4455758, "lon": 10.5727839 },
+    { "lat": 52.4459001, "lon": 10.5727925 },
+    { "lat": 52.4461460, "lon": 10.5727839 },
+    { "lat": 52.4462714, "lon": 10.5727640 },
+    { "lat": 52.4464704, "lon": 10.5727324 },
+    { "lat": 52.4467596, "lon": 10.5726340 },
+    { "lat": 52.4468993, "lon": 10.5725865 },
+    { "lat": 52.4472561, "lon": 10.5724087 },
+    { "lat": 52.4474894, "lon": 10.5722667 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 170660005,
+  "bounds": {
+    "minlat": 52.4474894,
+    "minlon": 10.5720928,
+    "maxlat": 52.4477336,
+    "maxlon": 10.5722667
+  },
+  "nodes": [
+    320044177,
+    271681390
+  ],
+  "geometry": [
+    { "lat": 52.4474894, "lon": 10.5722667 },
+    { "lat": 52.4477336, "lon": 10.5720928 }
+  ],
+  "tags": {
+    "bridge": "yes",
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:position": "29.974",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 170660006,
+  "bounds": {
+    "minlat": 52.4428282,
+    "minlon": 10.5708563,
+    "maxlat": 52.4429153,
+    "maxlon": 10.5709872
+  },
+  "nodes": [
+    1818181925,
+    271681219
+  ],
+  "geometry": [
+    { "lat": 52.4428282, "lon": 10.5708563 },
+    { "lat": 52.4429153, "lon": 10.5709872 }
+  ],
+  "tags": {
+    "bridge": "yes",
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:position": "29.405",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 293217428,
+  "bounds": {
+    "minlat": 52.4296976,
+    "minlon": 10.5314687,
+    "maxlat": 52.4297833,
+    "maxlon": 10.5314950
+  },
+  "nodes": [
+    2967915398,
+    2967915399
+  ],
+  "geometry": [
+    { "lat": 52.4296976, "lon": 10.5314687 },
+    { "lat": 52.4297833, "lon": 10.5314950 }
+  ],
+  "tags": {
+    "bridge": "yes",
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:position": "25.823",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 293217429,
+  "bounds": {
+    "minlat": 52.4334512,
+    "minlon": 10.5328512,
+    "maxlat": 52.4411624,
+    "maxlon": 10.5574649
+  },
+  "nodes": [
+    5033143876,
+    5033143878,
+    11391664854,
+    259247044,
+    271680318,
+    321752904,
+    96083761,
+    4144141919,
+    271680319,
+    4144141920,
+    259247045,
+    271680320,
+    4144141926,
+    96083762,
+    4144141929,
+    271680444,
+    4144141939,
+    2228468270,
+    11034419078,
+    3062647243,
+    271680344,
+    3062647244,
+    11075718656,
+    271680345,
+    271680445,
+    259247046,
+    271680446,
+    96083763,
+    5033143880,
+    11391664855,
+    5033143881,
+    11391664856,
+    271680623,
+    10741073140,
+    11034419077,
+    275299810
+  ],
+  "geometry": [
+    { "lat": 52.4334512, "lon": 10.5328512 },
+    { "lat": 52.4348703, "lon": 10.5333795 },
+    { "lat": 52.4371472, "lon": 10.5342350 },
+    { "lat": 52.4376197, "lon": 10.5344315 },
+    { "lat": 52.4380687, "lon": 10.5346928 },
+    { "lat": 52.4382878, "lon": 10.5348633 },
+    { "lat": 52.4384202, "lon": 10.5349776 },
+    { "lat": 52.4386034, "lon": 10.5351444 },
+    { "lat": 52.4387783, "lon": 10.5353242 },
+    { "lat": 52.4389574, "lon": 10.5355293 },
+    { "lat": 52.4391144, "lon": 10.5357264 },
+    { "lat": 52.4393318, "lon": 10.5360228 },
+    { "lat": 52.4394610, "lon": 10.5362254 },
+    { "lat": 52.4395574, "lon": 10.5363823 },
+    { "lat": 52.4397487, "lon": 10.5367363 },
+    { "lat": 52.4399212, "lon": 10.5371078 },
+    { "lat": 52.4400161, "lon": 10.5373398 },
+    { "lat": 52.4401111, "lon": 10.5375711 },
+    { "lat": 52.4401638, "lon": 10.5377152 },
+    { "lat": 52.4402325, "lon": 10.5379190 },
+    { "lat": 52.4402706, "lon": 10.5380364 },
+    { "lat": 52.4403145, "lon": 10.5381739 },
+    { "lat": 52.4403404, "lon": 10.5382540 },
+    { "lat": 52.4403742, "lon": 10.5383537 },
+    { "lat": 52.4404841, "lon": 10.5387732 },
+    { "lat": 52.4406021, "lon": 10.5394073 },
+    { "lat": 52.4406945, "lon": 10.5400653 },
+    { "lat": 52.4407543, "lon": 10.5407693 },
+    { "lat": 52.4408655, "lon": 10.5450609 },
+    { "lat": 52.4409173, "lon": 10.5474024 },
+    { "lat": 52.4409417, "lon": 10.5483158 },
+    { "lat": 52.4409824, "lon": 10.5500118 },
+    { "lat": 52.4409980, "lon": 10.5506224 },
+    { "lat": 52.4411178, "lon": 10.5555089 },
+    { "lat": 52.4411583, "lon": 10.5572446 },
+    { "lat": 52.4411624, "lon": 10.5574649 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed:forward": "80",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 515354711,
+  "bounds": {
+    "minlat": 52.4161117,
+    "minlon": 10.5242776,
+    "maxlat": 52.4199443,
+    "maxlon": 10.5281157
+  },
+  "nodes": [
+    5033143855,
+    6188985002,
+    52687912,
+    2687953495,
+    1819107657,
+    271680150,
+    52686027,
+    1819107665,
+    271680151,
+    96083758,
+    1819107668,
+    11391780123,
+    256322865,
+    1819107671,
+    261928370,
+    1819107674,
+    8779584923,
+    8779561213,
+    256322905
+  ],
+  "geometry": [
+    { "lat": 52.4161117, "lon": 10.5242776 },
+    { "lat": 52.4162962, "lon": 10.5243501 },
+    { "lat": 52.4167643, "lon": 10.5245663 },
+    { "lat": 52.4168372, "lon": 10.5246106 },
+    { "lat": 52.4169882, "lon": 10.5247098 },
+    { "lat": 52.4171969, "lon": 10.5248600 },
+    { "lat": 52.4175033, "lon": 10.5251317 },
+    { "lat": 52.4176473, "lon": 10.5252811 },
+    { "lat": 52.4178101, "lon": 10.5254794 },
+    { "lat": 52.4180590, "lon": 10.5258135 },
+    { "lat": 52.4183228, "lon": 10.5261906 },
+    { "lat": 52.4184490, "lon": 10.5263683 },
+    { "lat": 52.4189944, "lon": 10.5271365 },
+    { "lat": 52.4192259, "lon": 10.5274180 },
+    { "lat": 52.4194470, "lon": 10.5276591 },
+    { "lat": 52.4197269, "lon": 10.5279291 },
+    { "lat": 52.4199010, "lon": 10.5280785 },
+    { "lat": 52.4199258, "lon": 10.5280998 },
+    { "lat": 52.4199443, "lon": 10.5281157 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "lit": "no",
+    "maxspeed": "70",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "railway:radio": "gsm-r",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 515354714,
+  "bounds": {
+    "minlat": 52.4200083,
+    "minlon": 10.5281635,
+    "maxlat": 52.4208023,
+    "maxlon": 10.5286634
+  },
+  "nodes": [
+    96083759,
+    1819107690,
+    1819107696,
+    1819107701,
+    256322864
+  ],
+  "geometry": [
+    { "lat": 52.4200083, "lon": 10.5281635 },
+    { "lat": 52.4201760, "lon": 10.5282913 },
+    { "lat": 52.4204070, "lon": 10.5284454 },
+    { "lat": 52.4205618, "lon": 10.5285409 },
+    { "lat": 52.4208023, "lon": 10.5286634 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "railway:radio": "gsm-r",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 515354717,
+  "bounds": {
+    "minlat": 52.4233727,
+    "minlon": 10.5295068,
+    "maxlat": 52.4296976,
+    "maxlon": 10.5314687
+  },
+  "nodes": [
+    5033143869,
+    96083760,
+    8779561215,
+    5033143870,
+    5033143871,
+    5033143873,
+    8779561214,
+    2967915398
+  ],
+  "geometry": [
+    { "lat": 52.4233727, "lon": 10.5295068 },
+    { "lat": 52.4239591, "lon": 10.5296907 },
+    { "lat": 52.4247937, "lon": 10.5299441 },
+    { "lat": 52.4250182, "lon": 10.5300139 },
+    { "lat": 52.4268634, "lon": 10.5305978 },
+    { "lat": 52.4272888, "lon": 10.5307285 },
+    { "lat": 52.4283022, "lon": 10.5310370 },
+    { "lat": 52.4296976, "lon": 10.5314687 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed:forward": "80",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "railway:radio": "gsm-r",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 515354722,
+  "bounds": {
+    "minlat": 52.4297833,
+    "minlon": 10.5314950,
+    "maxlat": 52.4311981,
+    "maxlon": 10.5320031
+  },
+  "nodes": [
+    2967915399,
+    472389835,
+    5033143875
+  ],
+  "geometry": [
+    { "lat": 52.4297833, "lon": 10.5314950 },
+    { "lat": 52.4302355, "lon": 10.5316428 },
+    { "lat": 52.4311981, "lon": 10.5320031 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 515354723,
+  "bounds": {
+    "minlat": 52.4311981,
+    "minlon": 10.5320031,
+    "maxlat": 52.4334512,
+    "maxlon": 10.5328512
+  },
+  "nodes": [
+    5033143875,
+    11391664853,
+    8779584920,
+    5033143877,
+    8779584921,
+    2429434693,
+    5033143876
+  ],
+  "geometry": [
+    { "lat": 52.4311981, "lon": 10.5320031 },
+    { "lat": 52.4313283, "lon": 10.5320524 },
+    { "lat": 52.4317762, "lon": 10.5322219 },
+    { "lat": 52.4330606, "lon": 10.5327055 },
+    { "lat": 52.4331148, "lon": 10.5327234 },
+    { "lat": 52.4334099, "lon": 10.5328359 },
+    { "lat": 52.4334512, "lon": 10.5328512 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "maxspeed:forward": "60",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 823159220,
+  "bounds": {
+    "minlat": 52.4104222,
+    "minlon": 10.5219192,
+    "maxlat": 52.4153734,
+    "maxlon": 10.5239736
+  },
+  "nodes": [
+    7685218109,
+    8762203410,
+    7685218107,
+    8443468947,
+    8762203411,
+    7685218110
+  ],
+  "geometry": [
+    { "lat": 52.4153734, "lon": 10.5239736 },
+    { "lat": 52.4146776, "lon": 10.5236810 },
+    { "lat": 52.4134964, "lon": 10.5231870 },
+    { "lat": 52.4132957, "lon": 10.5231035 },
+    { "lat": 52.4125021, "lon": 10.5227769 },
+    { "lat": 52.4104222, "lon": 10.5219192 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "fixme": "Lage der Weichen und Abstand der Gleise nur geschätzt",
+    "gauge": "1435",
+    "lit": "no",
+    "maxspeed": "80",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:lzb": "no",
+    "railway:preferred_direction": "both",
+    "railway:pzb": "yes",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 909376489,
+  "bounds": {
+    "minlat": 52.4153734,
+    "minlon": 10.5239736,
+    "maxlat": 52.4161117,
+    "maxlon": 10.5242776
+  },
+  "nodes": [
+    7685218109,
+    8779561212,
+    5033143855
+  ],
+  "geometry": [
+    { "lat": 52.4153734, "lon": 10.5239736 },
+    { "lat": 52.4161045, "lon": 10.5242757 },
+    { "lat": 52.4161117, "lon": 10.5242776 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "lit": "no",
+    "maxspeed": "80",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "railway:radio": "gsm-r",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+},
+{
+  "type": "way",
+  "id": 948517342,
+  "bounds": {
+    "minlat": 52.4423967,
+    "minlon": 10.5701203,
+    "maxlat": 52.4428282,
+    "maxlon": 10.5708563
+  },
+  "nodes": [
+    128183214,
+    271681218,
+    11391664862,
+    1818181925
+  ],
+  "geometry": [
+    { "lat": 52.4423967, "lon": 10.5701203 },
+    { "lat": 52.4425484, "lon": 10.5704064 },
+    { "lat": 52.4426816, "lon": 10.5706206 },
+    { "lat": 52.4428282, "lon": 10.5708563 }
+  ],
+  "tags": {
+    "description": "BS - Gifhorn",
+    "electrified": "no",
+    "gauge": "1435",
+    "name": "Braunschweig–Wieren (Mühlenbahn)",
+    "passenger_lines": "1",
+    "proposed:electrified": "contact_line",
+    "proposed:frequency": "16.7",
+    "proposed:voltage": "15000",
+    "railway": "rail",
+    "railway:pzb": "yes",
+    "ref": "1902",
+    "source": "https://www.regionalverband-braunschweig.sitzung-online.de/public/wicket/resource/org.apache.wicket.Application/doc38230.pdf",
+    "usage": "branch",
+    "workrules": "DE:EBO"
+  }
+}
+
+  ]
+}

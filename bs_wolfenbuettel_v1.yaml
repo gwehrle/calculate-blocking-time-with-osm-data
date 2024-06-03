@@ -1,0 +1,39 @@
+paths:
+  - id: block_sections
+    name: "Blocks"
+    characteristic_sections:
+      -
+        - 0.0
+        - 110.0
+        - 0.0
+      -
+        - 1098.066381961074
+        - 120.0
+        - 0.0
+      -
+        - 4537.022047766908
+        - 100.0
+        - 0.0
+      -
+        - 8735.92759007127
+        - 100.0
+        - 0.0
+    points_of_interest:
+      -
+        - 96.24954812040708
+        - distant_signal
+        - front
+      -
+        - 1098.066381961074
+        - main_signal
+        - front
+      -
+        - 3340.447243250209
+        - distant_signal
+        - front
+      -
+        - 4217.150520747374
+        - main_signal
+        - front
+schema_version: "2022.05"
+schema: "https://railtoolkit.org/schema/running-path.json"
