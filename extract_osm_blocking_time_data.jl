@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.19.42
+# v0.20.4
 
 using Markdown
 using InteractiveUtils
@@ -620,7 +620,7 @@ begin
 
 
 	if size(speed_signals, 1) > 0
-		vlines!(speed_signals.position ./ 1000, step=:post, label = "Position der Geschwindigkeitsanzeiger", color=:gray, linestyle=:dot)
+		vlines!(speed_signals.position ./ 1000, label = "Position der Geschwindigkeitsanzeiger", color=:gray, linestyle=:dot)
 	end
 
 	
